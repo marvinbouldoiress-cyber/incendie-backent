@@ -1,5 +1,0 @@
-/incendie-backend
-│
-├── server.js
-├── Dockerfile
-├── package.json   ← ici
